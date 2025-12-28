@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "アポロ (New Apollo Project Version)",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2025-12-28T13:33:46.255677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アポロ",
+      "artist": "ayaka",
+      "has_synced": false,
+      "path": "select/01_アポロ_ayaka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アポロ",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/02_アポロ_絢香.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/03_アポロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アポロ",
+      "artist": "PornoGraffitti",
+      "has_synced": false,
+      "path": "select/04_アポロ_PornoGraffitti.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アポロ",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/05_アポロ_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アポロ",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/06_アポロ_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アポロ",
+      "artist": "Porno Graffitti (ポルノグラフィティ)",
+      "has_synced": true,
+      "path": "select/07_アポロ_Porno_Graffitti_(ポルノグラフィティ).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/08_アポロ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アポロ (Backing Track)",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/09_アポロ_(Backing_Track)_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アポロ (Backing Track)",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/10_アポロ_(Backing_Track)_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_アポロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アポロ(New Apollo Project Version)",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_アポロ(New_Apollo_Project_Version)_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_03_アポロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_04_アポロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_05_アポロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_06_アポロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_07_アポロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_08_アポロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_09_アポロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_10_アポロ_ポルノグラフィティ.txt"
+    }
+  ]
+}
